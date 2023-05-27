@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    --font-inter: Inter;
+
+    --font-size-21xl: 40px;
+    --font-size-13xl: 32px;
+    --font-size-29xl: 48px;
+    --font-size-17xl: 36px;
+    --font-size-5xl: 24px;
+    --font-size-xl: 20px;
+  
+    --color-whitesmoke: #f1eeee;
+    --color-white: #fff;
+    --color-black: #000;
+  
+    --br-3xs: 10px;
+  }
