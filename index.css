@@ -357,7 +357,7 @@
       }
       .brand1 {
         position: absolute;
-        top: -450px;
+        top: -350px;
         left: 115px;
         width: 150px;
         font-size: x-large;
@@ -372,19 +372,19 @@
         object-fit: cover;
       }
       .rolex-logo-design2-1-icon{
-        top: -350px;
+        top: -250px;
         left: 200px;
         width: 150px;
         height: 100px;
       }
       .g-shock-logo-1-icon {
-        top: -350px;
+        top: -250px;
         left: 5px;
         width: 100px;
         height: 100px;
       }
       .seiokologo-1-icon{
-        top: -350px;
+        top: -250px;
         height: 100px;
         width: 100px;
         left: 120px;
@@ -493,7 +493,8 @@
     
       .group-child {
         position: absolute;
-        top: -380px;
+        bottom: 0;
+        top: -150px;
         left: 0;
         background-color: var(--color-black);
         width: 1000px;
@@ -503,29 +504,33 @@
       .contact-us9,
       .locations8 {
         position: absolute;
+        bottom: 0;
         top: -400px;
         left: 82px;
         cursor: pointer;
         font-size: large;
       }
       .locations8{
-        top: -300px;
+        top: -50px;
         width: 194.97px;
         left: 30px;
       }
       .contact-us9{
-        top: -350px;
+        top: -100px;
         width: 200px;
         left: 30px;
       }
       .about-us10{
-        top: -250px;
+        top: 0px;
+        width: 200px;
         left: 30px;
       }
       
       .rectangle-parent {
         position: absolute;
-        top: 1000px;
+        bottom: 0;
+        top: 140vh;
+        margin-bottom: 0;
       }
       .watch-new-arrival {
         position: absolute;

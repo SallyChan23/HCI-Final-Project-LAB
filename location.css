@@ -94,6 +94,9 @@
   }
 
   @media screen and (max-width: 768px) {
+    body{
+      margin: 0;
+    }
     .store-1-icon {
         position: absolute;
         top: 250px;
@@ -133,13 +136,16 @@
         width: 382.51px;
         cursor: pointer;
       }
+      .group-child16{
+        bottom: 0;
+      }
       .group-child16 {
         position: absolute;
-        top: -300px;
+        top: auto;
         left: 0;
+        bottom: auto;
         background-color: var(--color-black);
-        width: 200%;
-        height: 200px;
+        width: 100%;
       }
       .about-us5,
       .contact-us6,
@@ -152,16 +158,16 @@
       }
       .contact-us6,
       .locations5 {
-        top: -250px;
+        top: 30px;
         width: 200px;
         left: -10px;
       }
       .locations5 {
-        top: -200px;
+        top: 65px;
         left: -15px;
       }
       .about-us5{
-        top: -150px;
+        top: 100px;
         width: 194.97px;
         left: -15px;
       }

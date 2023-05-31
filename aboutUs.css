@@ -128,43 +128,47 @@
       }
       .group-child {
         position: absolute;
-        top: -400px;
+        bottom: 0;
+        top: auto;
         left: 0;
         background-color: var(--color-black);
-        width: 200%;
+        width: 1000px;
         height: 200px;
       }
       .about-us8,
       .contact-us7,
       .locations6 {
         position: absolute;
+        bottom: 0;
         top: -400px;
         left: 82px;
         cursor: pointer;
         font-size: large;
       }
       .contact-us7{
-        top: -350px;
+        top: 50px;
         width: 200px;
         left: 30px;
       }
       .about-us8{
-        top: -250px;
+        top: 150px;
+        width: 200px;
         left: 30px;
       }
       .locations6 {
-        top: -300px;
+        top: 100px;
         width: 194.97px;
         left: 30px;
       }
-      .rectangle-parent,
-      .text1 {
+      .rectangle-parent {
         position: absolute;
+        bottom: 0;
         left: 0;
         width: 1529px;
       }
       .rectangle-parent {
         top: 557px;
+        bottom: 0;
         height: 223px;
         font-size: var(--font-size-21xl);
         color: var(--color-white);
