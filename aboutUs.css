@@ -8,6 +8,7 @@
     object-fit: cover;
   }
   .about-us7 {
+    font-weight: bolder;
     position: absolute;
     top: 127px;
     left: 950px;
@@ -91,7 +92,7 @@
     color: var(--color-black);
     font-family: var(--font-inter);
   }
-  @media screen and (max-width : 768px){
+  @media screen and (max-width : 780px){
     .watch-store-1 {
         top: 199px;
         left: 35px;
@@ -177,7 +178,7 @@
         position: relative;
         background-color: var(--color-whitesmoke);
         width: 100%;
-        height: 1024px;
+        height: 780px;
         overflow-y: auto;
         text-align: left;
         font-size: var(--font-size-21xl);

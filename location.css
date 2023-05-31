@@ -1,0 +1,193 @@
+.store-1-icon {
+    position: absolute;
+    top: 211px;
+    left: 600px;
+    width: 742px;
+    height: 420px;
+    object-fit: cover;
+  }
+  .our-official-store {
+    position: absolute;
+    top: 145px;
+    left: 810px;
+  }
+  .gunung-sahari-street {
+    margin: 0;
+  }
+  .gunung-sahari-street-container {
+    position: absolute;
+    top: 0;
+    left: 700px;
+  }
+  .contact-us-at-container {
+    position: absolute;
+    top: 287px;
+    left: 700px;
+    font-size: var(--font-size-13xl);
+  }
+  .or-click-here {
+    position: absolute;
+    top: 465px;
+    left: 590px;
+    font-size: x-large;
+    display: inline-block;
+    width: 382.51px;
+    cursor: pointer;
+  }
+  .group-child16 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-black);
+    width: 2100px;
+    height: 200px;
+  }
+  .about-us5,
+  .contact-us6,
+  .locations5 {
+    position: absolute;
+    top: 100px;
+    left: 80px;
+    cursor: pointer;
+    color: white;
+    font-size: large;
+  }
+  .contact-us6,
+  .locations5 {
+    top: 20px;
+    width: 225.69px;
+  }
+  .locations5 {
+    top: 88px;
+    width: 194.97px;
+    left: 90px;
+  }
+  .about-us5{
+    top: 150px;
+    left: 145px;
+  }
+  .rectangle-parent,
+  .text {
+    position: absolute;
+    left: 0;
+    width: 1443px;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 900px;
+  }
+  .text {
+    top: 649px;
+    height: 799px;
+    text-align: center;
+  }
+  .location {
+    position: relative;
+    background-color: var(--color-whitesmoke);
+    width: 100%;
+    height: 1024px;
+    overflow-y: auto;
+    text-align: left;
+    font-size: var(--font-size-21xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+
+  @media screen and (max-width: 768px) {
+    .store-1-icon {
+        position: absolute;
+        top: 250px;
+        left: 30px;
+        width: 300px;
+        height: 200px;
+        object-fit: cover;
+      }
+      .our-official-store {
+        position: absolute;
+        top: 150px;
+        left: 50px;
+        font-weight: bold;
+        font-size: xx-large;
+      }
+      .gunung-sahari-street {
+        margin: 0;
+      }
+      .gunung-sahari-street-container {
+        position: absolute;
+        top: -60px;
+        left: 20px;
+        font-size: x-large;
+      }
+      .contact-us-at-container {
+        position: absolute;
+        top: 200px;
+        left: 20px;
+        font-size: x-large;
+      }
+      .or-click-here {
+        position: absolute;
+        top: 350px;
+        left: -100px;
+        font-size: large;
+        display: inline-block;
+        width: 382.51px;
+        cursor: pointer;
+      }
+      .group-child16 {
+        position: absolute;
+        top: -300px;
+        left: 0;
+        background-color: var(--color-black);
+        width: 200%;
+        height: 200px;
+      }
+      .about-us5,
+      .contact-us6,
+      .locations5 {
+        position: absolute;
+        left: 80px;
+        cursor: pointer;
+        color: white;
+        font-size: large;
+      }
+      .contact-us6,
+      .locations5 {
+        top: -250px;
+        width: 200px;
+        left: -10px;
+      }
+      .locations5 {
+        top: -200px;
+        left: -15px;
+      }
+      .about-us5{
+        top: -150px;
+        width: 194.97px;
+        left: -15px;
+      }
+      .rectangle-parent,
+      .text {
+        position: absolute;
+        left: 0;
+        width: 1443px;
+      }
+      .rectangle-parent {
+        top: 800px;
+      }
+      .text {
+        top: 649px;
+        height: 799px;
+        text-align: center;
+      }
+      .location {
+        position: relative;
+        background-color: var(--color-whitesmoke);
+        width: 100%;
+        height: 768px;
+        overflow-y: auto;
+        text-align: left;
+        font-size: var(--font-size-21xl);
+        color: var(--color-black);
+        font-family: var(--font-inter);
+      }
+  }
