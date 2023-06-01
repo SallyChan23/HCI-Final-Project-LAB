@@ -1,4 +1,9 @@
-document.getElementById('form-register').addEventListener('submit', (event)=>{
+function getInt(a,b,c){
+
+}
+
+
+document.getElementById('form').addEventListener('submit', (event)=>{
     event.preventDefault()
     const useremail= document.getElementById('usermail').value
     const username=document.getElementById('username').value
@@ -6,13 +11,17 @@ document.getElementById('form-register').addEventListener('submit', (event)=>{
 
     console.log(username, useremail, agreement);
 
-    if(!useremail.endsWith('@gmail.com')){
-        alert('Email must ends with @gmail.com')
+    if(username.length<8 || username.length>15){
+        alert('Username length must be between 8-15 characters')
         return
     }
 
-    if(username.length<8 || username.length>15){
-        alert('Username length must be between 8-15 characters')
+    if(!useremail.endsWith('@gmail.com') || !useremail.endsWith('@yahoo.com') || !useremail.endsWith('@ac.id') || !useremail.endsWith('@outlook.com')){
+        alert('Email must contains right format')
+        return
+    }
+    if(password!==repassword){
+        alert('Retype password doesn\'t match')
         return
     }
 
@@ -20,6 +29,10 @@ document.getElementById('form-register').addEventListener('submit', (event)=>{
         alert('You must agree with all of term and conditions!')
         return
     }
+
     alert('Registration Success')
-    window.location.href='home.html'
+    window.location.href='/home.html'
 })
+
+// document.getElementById('register-button').addEventListener('click')
+
