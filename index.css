@@ -223,9 +223,17 @@
   .contact-us9,
   .locations8 {
     top: 20px;
+    width: 225.69px;
   }
   .locations8 {
-    top: 70px;
+    top: 88px;
+    width: 194.97px;
+    left: 80px;
+  }
+  .about-us10{
+    top: 150px;
+    width: 194.97px;
+    left: 80px;
   }
   .rectangle-parent {
     position: absolute;

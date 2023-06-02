@@ -1,0 +1,170 @@
+.g-shock-logo,
+.rolex-logo-design,
+.seiokologo{
+  position: absolute;
+  top: 406px;
+  left: 90rem;
+  width: 320px;
+  height: 180px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.seiokologo{
+    margin-top: 5px;
+}
+.g-shock-logo,
+.seiokologo{
+  left: 810px;
+  width: 320px;
+  height: 180px;
+}
+.g-shock-logo {
+  top: 362px;
+  left: 250px;
+  width: 241px;
+  height: 241px;
+}
+.group-child,
+.our-brand-product {
+  position: absolute;
+  top: 209px;
+  left: 750px;
+}
+.group-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-black);
+    width: 2100px;
+    height: 220px;
+}
+.about-us,
+.contact-us,
+.locations {
+    position: absolute;
+    top: 100px;
+    left: 80px;
+    cursor: pointer;
+    color: white;
+    font-size: large;
+}
+.contact-us,
+.locations {
+    top: 20px;
+    width: 225.69px;
+}
+.locations {
+    top: 88px;
+    width: 194.97px;
+    left: 80px;
+}
+.about-us{
+    top: 150px;
+    left: 80px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 801px;
+  left: -3px;
+  width: 1443px;
+  height: 223px;
+  text-align: left;
+}
+.products {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+
+@media screen and (max-width: 768px) {
+.g-shock-logo,
+.rolex-logo-design,
+.seiokologo{
+  position: absolute;
+  top: 140px;
+  left: 40px;
+  width: 280px;
+  height: 150px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.seiokologo{
+    top: 330px;
+}
+.g-shock-logo,
+.seiokologo{
+  left: 40px;
+  width: 280px;
+  height: 150px;
+}
+.g-shock-logo {
+  top: 520px;
+  left: 60px;
+  width: 220px;
+  height: 220px;
+}
+.group-child,
+.our-brand-product {
+  position: absolute;
+  font-size: xx-large;
+  top: 60px;
+  left: 40px;
+}
+.group-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-black);
+    width: 2100px;
+    height: 220px;
+}
+.about-us,
+.contact-us,
+.locations {
+    position: absolute;
+    top: 100px;
+    left: 80px;
+    cursor: pointer;
+    color: white;
+    font-size: large;
+}
+.contact-us,
+.locations {
+    top: 20px;
+    width: 225.69px;
+}
+.locations {
+    top: 88px;
+    width: 194.97px;
+    left: 80px;
+}
+.about-us{
+    top: 150px;
+    left: 80px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 801px;
+  left: -3px;
+  width: 1443px;
+  height: 223px;
+  text-align: left;
+}
+.products {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+}

@@ -48,7 +48,7 @@
   .locations5 {
     position: absolute;
     top: 100px;
-    left: 80px;
+    left: 10px;
     cursor: pointer;
     color: white;
     font-size: large;
@@ -61,11 +61,11 @@
   .locations5 {
     top: 88px;
     width: 194.97px;
-    left: 90px;
+    left: 20px;
   }
   .about-us5{
     top: 150px;
-    left: 145px;
+    left: 75px;
   }
   .rectangle-parent,
   .text {

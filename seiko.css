@@ -1,0 +1,144 @@
+.group-child3,
+.group-child4,
+.group-child5,
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 139px;
+  background-color: var(--color-black);
+  width: 350px;
+  height: 494px;
+}
+.group-child4,
+.group-child5,
+.group-child6 {
+  top: 636px;
+}
+.group-child5,
+.group-child6 {
+  top: 0;
+  left: 908px;
+}
+.group-child6 {
+  top: 636px;
+}
+.seiko-men-341 {
+  position: absolute;
+  top: 363px;
+  left: 203px;
+}
+.seiko-fs-8910,
+.seiko-jk-908 {
+  position: absolute;
+  top: 369px;
+  left: 977px;
+}
+.seiko-fs-8910 {
+  top: 986px;
+  left: 209px;
+}
+.rp-879900000,
+.seiko-lm-9017 {
+  position: absolute;
+  top: 986px;
+  left: 972px;
+}
+.rp-879900000 {
+  top: 426px;
+  left: 190px;
+}
+.rp-489900000,
+.rp-779900000 {
+  position: absolute;
+  top: 1050px;
+  left: 176px;
+}
+.rp-489900000 {
+  top: 1051px;
+  left: 947px;
+}
+.group-child7,
+.rp-548900000 {
+  position: absolute;
+  top: 434px;
+  left: 954px;
+}
+.group-child7 {
+  top: 1264px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1443px;
+  height: 223px;
+}
+.about-us3,
+.contact-us3,
+.locations3 {
+  position: absolute;
+  top: 1420px;
+  left: 82px;
+  cursor: pointer;
+}
+.contact-us3,
+.locations3 {
+  top: 1284px;
+}
+.locations3 {
+  top: 1352px;
+}
+.watch1 {
+  position: absolute;
+  top: 637px;
+  left: 163px;
+  width: 302px;
+  height: 315px;
+  object-fit: cover;
+}
+.watch2 {
+  position: absolute;
+  top: 654px;
+  left: 938px;
+  width: 293px;
+  height: 298px;
+  object-fit: cover;
+}
+.watch3,
+.watch4 {
+  position: absolute;
+  top: 16px;
+  left: 954px;
+  width: 284px;
+  height: 273px;
+  object-fit: cover;
+}
+.watch4 {
+  top: 0;
+  left: 151px;
+  width: 320px;
+  height: 306px;
+}
+.group-div,
+.rectangle-parent1 {
+  position: absolute;
+  left: 0;
+  width: 1443px;
+}
+.rectangle-parent1 {
+  top: 34px;
+  height: 1487px;
+  font-size: var(--font-size-21xl);
+}
+.group-div {
+  top: 74px;
+  height: 1521px;
+}
+.seiko {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
