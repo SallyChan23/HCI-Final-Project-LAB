@@ -36,7 +36,7 @@ var rectangle = document.getElementById("rectangle");
       var pNGTR31Image = document.getElementById("pNGTR31Image");
       if (pNGTR31Image) {
         pNGTR31Image.addEventListener("click", function (e) {
-          window.location.href = "./RolexLO.html";
+          window.location.href = "./RolexHJ.html";
         });
       }
       
@@ -45,7 +45,7 @@ var rectangle = document.getElementById("rectangle");
       );
       if (pngTransparentRoundBlackRoImage) {
         pngTransparentRoundBlackRoImage.addEventListener("click", function (e) {
-          window.location.href = "./RolexHJ.html";
+          window.location.href = "./RolexLO.html";
         });
       }
       

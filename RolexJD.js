@@ -8,7 +8,7 @@ var aboutUsText = document.getElementById("aboutUsText");
       var contactUsText = document.getElementById("contactUsText");
       if (contactUsText) {
         contactUsText.addEventListener("click", function (e) {
-          window.location.href = "contactUS.html";
+          window.location.href = "contactUs.html";
         });
       }
       
