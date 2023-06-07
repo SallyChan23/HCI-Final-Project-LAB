@@ -69,6 +69,10 @@
   }
   .category,
   .home-child {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montagu Slab', serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
     position: absolute;
     top: 440px;
     left: 37px;
@@ -414,7 +418,7 @@
       }
       .rolex-logo-design2-1-icon{
         top: -250px;
-        left: 200px;
+        left: 215px;
         width: 150px;
         height: 100px;
       }
@@ -432,16 +436,12 @@
       }
       .brand {
         position: absolute;
-        bottom: 350px;
+        bottom: -140px;
         left: 9px;
         width: 10px;
         height: 10px;
         font-size: Large;
         color: var(--color-black);
-      }
-      .scroll{
-        overflow: auto;
-        white-space: nowrap;
       }
       .watch-new-arrival-child,
       .watch-new-arrival-item{
@@ -455,7 +455,7 @@
         height: 200px;
       }
       .watch-new-arrival-item {
-        left: 800px;
+        left: 70px;
       }
       .rolexnewarrival1-2-icon {
         position: absolute;
@@ -468,28 +468,28 @@
       }
       .watch-new-arrival-inner {
         position: absolute;
-        top: 0;
-        left: 1450px;
+        top: 300px;
+        left: 70px;
         background-color: var(--color-black);
-        width: 347px;
-        height: 360px;
+        width: 230px;
+        height: 200px;
       }
       .rolexnewarrival2-1-icon,
       .rolexnewarrival2-2-icon {
         position: absolute;
-        top: 34px;
-        left: 870px;
+        top: 600px;
+        left: 100px;
         max-width: 100%;
-        width: 220.16px;
-        height: 217.35px;
+        width: 120px;
+        height: 150px;
         object-fit: cover;
       }
       .rolexnewarrival2-2-icon {
-        top: 27px;
-        left: 1510px;
+        top: 320px;
+        left: 125px;
         max-width: 100%;
-        width: 226.72px;
-        height: 232.04px;
+        width: 120px;
+        height: 130px;
       }
       .rolex-mens- {
         position: absolute;
@@ -499,14 +499,15 @@
       .rolex-hj-120,
       .rolex-womens- {
         position: absolute;
-        top: 275px;
-        left: 1510px;
+        top: 450px;
+        left: 75px;
       }
       .rolex-womens-{
         width: 40%;
       }
       .rolex-hj-120 {
-        left: 920px;
+        top: 800px;
+        left: 100px;
       }
       .harga15,
       .harga17,
@@ -529,13 +530,14 @@
         left: 125px;
       }
       .harga17{
-        left: 910px;
+        top: 480px;
+        left: 120px;
       }
     
       .group-child {
         position: absolute;
         bottom: 0;
-        top: -150px;
+        top: 200px;
         left: 0;
         background-color: var(--color-black);
         width: 1000px;
@@ -546,23 +548,23 @@
       .locations8 {
         position: absolute;
         bottom: 0;
-        top: -400px;
+        top: -600px;
         left: 82px;
         cursor: pointer;
         font-size: large;
       }
       .locations8{
-        top: -50px;
+        top: 250px;
         width: 194.97px;
         left: 30px;
       }
       .contact-us9{
-        top: -100px;
+        top: 300px;
         width: 200px;
         left: 30px;
       }
       .about-us10{
-        top: 0px;
+        top: 350px;
         width: 200px;
         left: 30px;
       }
