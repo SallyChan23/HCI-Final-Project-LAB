@@ -1,38 +1,52 @@
 .store-1-icon {
     position: absolute;
     top: 211px;
-    left: 600px;
+    left: 680px;
     width: 742px;
     height: 420px;
     object-fit: cover;
   }
   .our-official-store {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montagu Slab', serif;
+    font-family: 'Noto Sans', sans-serif;
     position: absolute;
     top: 145px;
-    left: 810px;
+    left: 900px;
   }
   .gunung-sahari-street {
     margin: 0;
   }
   .gunung-sahari-street-container {
     position: absolute;
-    top: 0;
-    left: 700px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montagu Slab', serif;
+    font-size: xx-large;
+    top: 40px;
+    left: 660px;
   }
   .contact-us-at-container {
+    color: rgb(0, 0, 0);
     position: absolute;
-    top: 287px;
-    left: 700px;
-    font-size: var(--font-size-13xl);
+    text-align: justify;
+    top: 200px;
+    left: 730px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montagu Slab', serif;
+    font-size: x-large;
   }
   .or-click-here {
     position: absolute;
-    top: 465px;
-    left: 590px;
-    font-size: x-large;
+    color: blue;
+    top: 380px;
+    left: 650px;
+    font-size: medium;
     display: inline-block;
     width: 382.51px;
     cursor: pointer;
+  }
+  .or-click-here:hover{
+    color: red;
   }
   .group-child16 {
     position: absolute;
@@ -107,6 +121,9 @@
         object-fit: cover;
       }
       .our-official-store {
+        font-family: 'Lato', sans-serif;
+        font-family: 'Montagu Slab', serif;
+        font-family: 'Noto Sans', sans-serif;
         position: absolute;
         top: 150px;
         left: 50px;
@@ -118,28 +135,26 @@
       }
       .gunung-sahari-street-container {
         position: absolute;
-        top: -60px;
-        left: 20px;
+        width: 300px;
+        top: -170px;
+        left: 30px;
         font-size: x-large;
       }
       .contact-us-at-container {
         position: absolute;
-        top: 200px;
-        left: 20px;
-        font-size: x-large;
+        top: 10px;
+        left: 40px;
+        font-size: large;
       }
       .or-click-here {
         position: absolute;
-        top: 350px;
-        left: -100px;
-        font-size: large;
+        top: 150px;
+        left: -60px;
         display: inline-block;
         width: 382.51px;
+        font-size: small;
         cursor: pointer;
-      }
-      .group-child16{
-        bottom: 0;
-      }
+      } 
       .group-child16 {
         position: absolute;
         top: auto;

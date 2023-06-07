@@ -16,10 +16,13 @@
     object-fit: cover;
   }
   .get-90-off {
-
     margin: 0;
   }
   .get-90-off-container {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montagu Slab', serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
     position: absolute;
     top: 123px;
     left: 121px;
@@ -36,6 +39,10 @@
   .contact-us8,
   .locations7,
   .products1 {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montagu Slab', serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
     position: absolute;
     top: 0;
     right: 70px;
@@ -74,6 +81,11 @@
     height: 68px;
   }
   .new-arrival {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montagu Slab', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
     position: absolute;
     top: 526px;
     left: 71px;
@@ -87,6 +99,10 @@
     object-fit: cover;
   }
   .brand1 {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montagu Slab', serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
     position: absolute;
     top: 0;
     left: 720px;
@@ -283,6 +299,10 @@
         margin: 0;
       }
       .get-90-off-container {
+        font-family: 'Lato', sans-serif;
+        font-family: 'Montagu Slab', serif;
+        font-family: 'Noto Sans', sans-serif;
+        font-family: 'Playfair Display', serif;
         position: absolute;
         top: 123px;
         left: 80px;
@@ -299,6 +319,10 @@
       .contact-us8,
       .locations7,
       .products1 {
+        font-family: 'Lato', sans-serif;
+        font-family: 'Montagu Slab', serif;
+        font-family: 'Noto Sans', sans-serif;
+        font-family: 'Playfair Display', serif;
         position: absolute;
         top: 0;
         left: 100px;
@@ -350,6 +374,11 @@
         height: 40px;
       }
       .new-arrival {
+        font-family: 'Lato', sans-serif;
+        font-family: 'Montagu Slab', serif;
+        font-family: 'Montserrat', sans-serif;
+        font-family: 'Noto Sans', sans-serif;
+        font-family: 'Playfair Display', serif;
         font-size: medium;
         position: absolute;
         top: 350px;
@@ -364,6 +393,10 @@
         object-fit: cover;
       }
       .brand1 {
+        font-family: 'Lato', sans-serif;
+        font-family: 'Montagu Slab', serif;
+        font-family: 'Noto Sans', sans-serif;
+        font-family: 'Playfair Display', serif;
         position: absolute;
         top: -350px;
         left: 115px;

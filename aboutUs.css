@@ -1,38 +1,46 @@
 .watch-store-1 {
     position: absolute;
     top: 199px;
-    left: 650px;
+    left: 630px;
     max-width: 100%;
     width: 759px;
     height: 420px;
     object-fit: cover;
   }
   .about-us7 {
+    font-family: 'Lato', sans-serif;
+  font-family: 'Montagu Slab', serif;
+  font-family: 'Noto Sans', sans-serif;
     position: absolute;
     top: 127px;
-    left: 950px;
+    left: 920px;
   }
   .watchhgods-is-a {
     margin: 0;
   }
   .watchhgods-is-a-container {
+    font-family: 'Lato', sans-serif;
     position: absolute;
     top: 0;
-    left: 250px;
+    left: 430px;
     text-align: center;
     display: inline-block;
-    font-size: x-large;
-    width: 100%;
+    font-size: large;
+    width: 80%;
     height: 494px;
   }
   .click-here-for {
     position: absolute;
-    top: 465px;
-    left: 650px;
+    color: blue;
+    top: 400px;
+    left: 450px;
     font-size: large;
     display: inline-block;
     width: 382.51px;
     cursor: pointer;
+  }
+  .click-here-for:hover{
+    color: red;
   }
   .group-child {
     position: absolute;
@@ -94,41 +102,46 @@
   @media screen and (max-width : 780px){
     .watch-store-1 {
         top: 199px;
-        left: 35px;
+        left: 45px;
         width: 300px;
         height: 200px;
         object-fit: cover;
       }
       .about-us7 {
+        font-family: 'Noto Sans', sans-serif;
         position: absolute;
         top: 127px;
-        left: 100px;
+        left: 110px;
       }
       .watchhgods-is-a {
         margin: 0;
       }
       .watchhgods-is-a-container {
         position: absolute;
-        font-size: medium;
-        top: -180px;
-        left: -430px;
-        text-align: center;
+        font-size: small;
+        top: -230px;
+        left: 40px;
+        text-align: justify;
         display: inline-block;
-        width: 80%;
+        width: 20%;
       }
       .click-here-for {
         position: absolute;
-        top: 80px;
-        left: 30px;
+        top: 600px;
+        left: 50px;
         font-size: small;
+        color: blue;
         display: inline-block;
         width: 250px;
         cursor: pointer;
       }
+      .click-here-for:hover{
+        color: red;
+      }
       .group-child {
         position: absolute;
-        bottom: 0;
         top: auto;
+        bottom: -60px;
         left: 0;
         background-color: var(--color-black);
         width: 1000px;
@@ -139,23 +152,23 @@
       .locations6 {
         position: absolute;
         bottom: 0;
-        top: -400px;
+        top: -500px;
         left: 82px;
         cursor: pointer;
         font-size: large;
       }
       .contact-us7{
-        top: 50px;
+        top: 100px;
         width: 200px;
         left: 30px;
       }
       .about-us8{
-        top: 150px;
+        top: 200px;
         width: 200px;
         left: 30px;
       }
       .locations6 {
-        top: 100px;
+        top: 150px;
         width: 194.97px;
         left: 30px;
       }
