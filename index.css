@@ -486,10 +486,18 @@
       }
       .rolexnewarrival2-2-icon {
         top: 320px;
-        left: 125px;
+        left: 120px;
         max-width: 100%;
         width: 120px;
         height: 130px;
+      }
+      .watch-new-arrival-inner2{
+        position: absolute;
+        top: 580px;
+        left: 70px;
+        background-color: var(--color-black);
+        width: 230px;
+        height: 200px;
       }
       .rolex-mens- {
         position: absolute;
@@ -506,7 +514,7 @@
         width: 40%;
       }
       .rolex-hj-120 {
-        top: 800px;
+        top: 750px;
         left: 100px;
       }
       .harga15,
