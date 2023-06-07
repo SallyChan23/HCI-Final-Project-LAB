@@ -27,11 +27,11 @@ document.getElementById('form').addEventListener('submit', (event)=>{
         return;
     }
     if(!agreement){
-        alert('You must agree with all of term and conditions!')
+        alert('You must agree to send a copy!')
         return
     }
 
     alert('Send Success')
-    window.location.href='home.html'
+    window.location.href='index.html'
 })
 
