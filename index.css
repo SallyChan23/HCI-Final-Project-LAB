@@ -97,7 +97,7 @@
   .seiokologo-1-icon {
     position: absolute;
     bottom: 13px;
-    left: 340px;
+    left: 630px;
     width: 377px;
     height: 212px;
     object-fit: cover;
@@ -125,9 +125,6 @@
     left: 0;
     width: 241px;
     height: 241px;
-  }
-  .seiokologo-1-icon{
-    left: 630px;
   }
   .brand {
     position: absolute;
@@ -457,6 +454,16 @@
       .watch-new-arrival-item {
         left: 70px;
       }
+      .watch-new-arrival-child{
+        display: inline-block;
+        margin-right: 10px;
+        position: absolute;
+        top: 580px;
+        left: 70px;
+        background-color: var(--color-black);
+        width: 230px;
+        height: 200px;
+      }
       .rolexnewarrival1-2-icon {
         position: absolute;
         top: 40px;
@@ -477,11 +484,11 @@
       .rolexnewarrival2-1-icon,
       .rolexnewarrival2-2-icon {
         position: absolute;
-        top: 600px;
-        left: 100px;
+        top: 590px;
+        left: 130px;
         max-width: 100%;
-        width: 120px;
-        height: 150px;
+        width: 100px;
+        height: 130px;
         object-fit: cover;
       }
       .rolexnewarrival2-2-icon {
@@ -490,14 +497,6 @@
         max-width: 100%;
         width: 120px;
         height: 130px;
-      }
-      .watch-new-arrival-inner2{
-        position: absolute;
-        top: 580px;
-        left: 70px;
-        background-color: var(--color-black);
-        width: 230px;
-        height: 200px;
       }
       .rolex-mens- {
         position: absolute;
@@ -514,8 +513,8 @@
         width: 40%;
       }
       .rolex-hj-120 {
-        top: 750px;
-        left: 100px;
+        top: 725px;
+        left: 120px;
       }
       .harga15,
       .harga17,
@@ -530,8 +529,8 @@
         left: 600px;
       }
       .harga34 {
-        left: 1550px;
-        width: 100%;
+        left: 115px;
+        top: 755px;
       }
       .harga15{
         top: 210px;
