@@ -49,7 +49,7 @@
     top: 0;
     left: 0;
     background-color: var(--color-black);
-    width: 200%;
+    width: 135%;
     height: 200px;
   }
   .about-us8,
@@ -95,6 +95,7 @@
     background-color: var(--color-whitesmoke);
     width: 100%;
     height: 1024px;
+    overflow-x: auto;
     overflow-y: auto;
     text-align: left;
     font-size: var(--font-size-21xl);
@@ -196,7 +197,7 @@
         position: relative;
         background-color: var(--color-whitesmoke);
         width: 100%;
-        height: 780px;
+        height: 1024px;
         overflow-y: auto;
         text-align: left;
         font-size: var(--font-size-21xl);
