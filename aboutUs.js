@@ -25,3 +25,10 @@ var clickHereFor = document.getElementById("clickHereFor");
           window.location.href = "location.html";
         });
       }
+      
+      var productText = document.getElementById("productsText");
+      if (locationsText) {
+        locationsText.addEventListener("click", function (e) {
+          window.location.href = "./products.html";
+        });
+      }

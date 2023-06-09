@@ -172,7 +172,55 @@
     color: var(--color-white);
     font-family: var(--font-inter);
   }
-  
+  .about-us9,
+  .contact-us8,
+  .locations7,
+  .products1 {
+  font-size: x-large;
+  color: black;
+  font-family: 'Playfair Display', serif;
+  position: absolute;
+  top: 50px;
+  right: 70px;
+  cursor: pointer;
+}
+.contact-us8,
+.locations7,
+.products1 {
+  right: 200px;
+}
+.contact-us8,
+.products1 {
+  right: 350px;
+}
+.products1 {
+  right: 500px;
+} 
+.about-us9,
+  .contact-us8,
+  .locations7,
+  .products1 {
+  font-size: x-large;
+  color: black;
+  font-family: 'Playfair Display', serif;
+  position: absolute;
+  top: 50px;
+  right: 70px;
+  cursor: pointer;
+}
+.contact-us8,
+.locations7,
+.products1 {
+  right: 200px;
+}
+.contact-us8,
+.products1 {
+  right: 350px;
+}
+.products1 {
+  right: 500px;
+} 
+
   @media screen and (max-width: 768px) {
     .group-child39 {
       position: absolute;
@@ -350,5 +398,51 @@
       color: var(--color-white);
       font-family: var(--font-inter);
     }
+    .about-us9,
+.contact-us8,
+.locations7,
+.products1 {
+  font-size: medium;
+  font-family: 'Playfair Display', serif;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  cursor: pointer;
+}
+.contact-us8,
+.locations7,
+.products1 {
+  right: 100px;
+}
+.contact-us8,
+.products1 {
+  right: 180px;
+}
+.products1 {
+  right: 270px;
+}
+.about-us9,
+.contact-us8,
+.locations7,
+.products1 {
+  font-size: medium;
+  font-family: 'Playfair Display', serif;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  cursor: pointer;
+}
+.contact-us8,
+.locations7,
+.products1 {
+  right: 100px;
+}
+.contact-us8,
+.products1 {
+  right: 180px;
+}
+.products1 {
+  right: 270px;
+}
     
   }
